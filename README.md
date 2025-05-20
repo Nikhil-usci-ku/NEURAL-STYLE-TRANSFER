@@ -83,9 +83,13 @@ Install the necessary Python libraries provided in requirements.txt file:
 > The script will attempt to download required models automatically upon first run.
 
 ## Running
+
 Run the Python script Task3.py directly.
+
 Enter the image location of Base content.
+
 Enter the image location of styling image.
+
 The new image is stored in `edited.png`
 
 ## Output
