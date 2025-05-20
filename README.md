@@ -55,16 +55,10 @@ Here’s a concise breakdown of its key components:
 
 ### Features
 * Neural Style Transfer: Combines content from one image with style from another.
-
 * VGG-19 Integration: Leverages a pre-trained VGG-19 CNN for robust feature extraction.
-
 * Content and Style Loss: Utilizes Mean Squared Error for content matching and Gram matrices for style matching.
-
 * LBFGS Optimization: Employs the LBFGS optimizer for efficient convergence.
-
 * Configurable Weights: Allows adjustment of content and style loss weights to control the blend.
-
-
 
 ## Prerequisites
 > Python 3.12
@@ -94,26 +88,11 @@ The new image is stored in `edited.png`
 
 ## Output
 
+* User Input
+
++ Console ![image](https://github.com/user-attachments/assets/70eaa862-b0e0-4a45-88f4-7788d1131f7b)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Edited Image
