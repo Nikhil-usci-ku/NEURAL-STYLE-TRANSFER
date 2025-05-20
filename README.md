@@ -92,6 +92,9 @@ The new image is stored in `edited.png`
 
   + Console ![image](https://github.com/user-attachments/assets/70eaa862-b0e0-4a45-88f4-7788d1131f7b)
 
+  + content.jpg ![content](https://github.com/user-attachments/assets/40c45ed2-856f-4c7f-8e98-3668d8aaec58)
+
+  + style.jpg ![style](https://github.com/user-attachments/assets/cc31b295-d507-4417-bced-bf13b04c32dd)
 
 
 
