@@ -105,3 +105,6 @@ The new image is stored in `edited.png`
 
 
 * Edited Image
+
+  ![Edited](https://github.com/user-attachments/assets/83c110f3-409d-4231-88a2-7aaf58b07508)
+
