@@ -80,7 +80,7 @@ Install the necessary Python libraries provided in requirements.txt file:
 
 `pip install -r requirements.txt`
 
-> The script will attempt to download NLTK and spaCy models automatically upon first run.
+> The script will attempt to download required models automatically upon first run.
 
 ## Running
 Run the Python script Task3.py directly.
