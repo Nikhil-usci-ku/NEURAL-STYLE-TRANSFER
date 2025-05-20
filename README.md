@@ -103,7 +103,14 @@ The new image is stored in `edited.png`
 
 
 
-* Edited Image
+* Output Image
+  
+  + Console
+ 
+    ![image](https://github.com/user-attachments/assets/d3bda7cb-ec59-4156-a24b-2fca43ce52f6)
 
-  ![Edited](https://github.com/user-attachments/assets/83c110f3-409d-4231-88a2-7aaf58b07508)
+  + Edited Image
+      
+    ![Edited](https://github.com/user-attachments/assets/6ba783fc-eeb8-4b35-9c24-b52c27502b97)
+
 
