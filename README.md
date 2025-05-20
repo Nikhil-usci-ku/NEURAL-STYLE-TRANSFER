@@ -51,9 +51,44 @@ Here’s a concise breakdown of its key components:
 * After the optimization loop completes, the final input_img is clamped again.
 * It's then converted from a PyTorch tensor back into a standard PIL image using transforms.ToPILImage() and saved as output.png, representing the artistic fusion.
 
+###
+
+### Features
+* Neural Style Transfer: Combines content from one image with style from another.
+
+* VGG-19 Integration: Leverages a pre-trained VGG-19 CNN for robust feature extraction.
+
+* Content and Style Loss: Utilizes Mean Squared Error for content matching and Gram matrices for style matching.
+
+* LBFGS Optimization: Employs the LBFGS optimizer for efficient convergence.
+
+* Configurable Weights: Allows adjustment of content and style loss weights to control the blend.
 
 
 
+## Prerequisites
+> Python 3.12
+
+## Installation
+Clone the repository (or download the zip file):
+
+`git clone https://github.com/Nikhil-usci-ku/NEURAL-STYLE-TRANSFER.git`
+
+`cd NEURAL-STYLE-TRANSFER`
+
+Install the necessary Python libraries provided in requirements.txt file:
+
+`pip install -r requirements.txt`
+
+> The script will attempt to download NLTK and spaCy models automatically upon first run.
+
+## Running
+Run the Python script Task3.py directly.
+Enter the image location of Base content.
+Enter the image location of styling image.
+The new image is stored in `edited.png`
+
+## Output
 
 
 
