@@ -90,7 +90,7 @@ The new image is stored in `edited.png`
 
 * User Input
 
-+ Console ![image](https://github.com/user-attachments/assets/70eaa862-b0e0-4a45-88f4-7788d1131f7b)
+  + Console ![image](https://github.com/user-attachments/assets/70eaa862-b0e0-4a45-88f4-7788d1131f7b)
 
 
 
