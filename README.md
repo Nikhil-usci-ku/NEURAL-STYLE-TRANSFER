@@ -51,7 +51,6 @@ Here’s a concise breakdown of its key components:
 * After the optimization loop completes, the final input_img is clamped again.
 * It's then converted from a PyTorch tensor back into a standard PIL image using transforms.ToPILImage() and saved as output.png, representing the artistic fusion.
 
-###
 
 ### Features
 * Neural Style Transfer: Combines content from one image with style from another.
