@@ -159,7 +159,7 @@ while run[0] <= 300: # Optimization loop for a fixed number of steps
 
         loss.backward() # Backpropagate the total loss
         run[0] += 1
-        if run[0] % 5 == 0:
+        if run[0] % 50 == 0:
             print(f"Step {run[0]}: Style: {style_score.item():.2f}, Content: {content_score.item():.2f}")
         return loss
 
